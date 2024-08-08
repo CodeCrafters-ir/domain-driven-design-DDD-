@@ -1,4 +1,4 @@
-<div align="justify">
+<div align="justify" dir="rtl">
 
  # در دنیای توسعه نرم افزار برای کسب و کارهای تجاری چه میگذرد؟؟؟
 
