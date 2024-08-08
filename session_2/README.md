@@ -77,16 +77,19 @@
 همه ذینفعان باید به طور مداوم از زبان فراگیر در همه ارتباطات مرتبط با پروژه برای گسترش دانش در مورد و تقویت درک مشترک از حوزه کسب و کار استفاده کنند. زبان باید به طور مداوم در طول پروژه تقویت شود: الزامات، آزمون ها، اسناد و حتی خود کد منبع باید از این زبان استفاده کنند. مهمتر از همه، پرورش زبانی فراگیر یک فرآیند مداوم است. باید دائما تایید و تکامل یابد.  استفاده روزمره از زبان، در طول زمان، بینش عمیق تری را در حوزه کسب و کار آشکار خواهد کرد. هنگامی که چنین پیشرفت هایی اتفاق می افتد، زبان فراگیر باید تکامل یابد تا با دانش تازه به دست آمده دامنه همگام شود.
 
 از یک ویکی برای اصطلاحات واژه زبان فراگیر استفاده کنید، اینگونه با افزودن افراد راحتتر خواهد بود، بروزرسانی مداوم این واژه نامه کار همگانی است، برای ضبط زبان میتوانید تست‌های نوشته شده از زبان cherking استفاده کنید تا شکاف بین متخصصان حوزه و مهندسان پر شود:
+</div>
 
-<p style="background:gray;padding: 2em;" dir="ltr">
+```
 SCENARIO: Notify the agent about a new support case
-<br>         GIVEN Vincent Jules submits a new support case saying:
-<br>          """  
-<br>          I need help configuring AWS Infinidash
-<br>          """  
-<br>         WHEN the ticket is assigned to Mr. Wolf  
-<br>         THEN the agent receives a notification about the new ticket
-</p>
+    GIVEN Vincent Jules submits a new support case saying:
+    """  
+    I need help configuring AWS Infinidash
+    """  
+    WHEN the ticket is assigned to Mr. Wolf  
+    THEN the agent receives a notification about the new ticket
+```
+
+<div align="justify" dir="rtl">
 
 میتوانید از NDepend برای تایید زبان فراگیر در کدهای خود استفاده کنید
 
