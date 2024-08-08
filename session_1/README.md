@@ -120,6 +120,8 @@
 
 [نویسنده: بهزاد آزادی](https://github.com/behzad-azadi2693)
 
-(وب سایت)[]
+[وب سایت](https://codecrafters.ir)
 
-(کانال)[]
+[کانال تلگرامی](https://t.me/Code_Crafters)
+
+
